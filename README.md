@@ -1,5 +1,5 @@
 
-# ggg
+# ReadMe Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
@@ -11,20 +11,20 @@
 - [License](#License)
 
 ## Description
-ggg
+This is an example description of a project.
 
 ## Usage
-ggg
+Here are the installation steps.
 
 ## Installation
-ggg
+Step 1. Step 2. Step 3.
 
 ## Contributions
-ggg
+TA's and tutors.
 
 ## Questions
-ggg
-ggg
+maggie.lively@gmail.com
+mmllively
 
 ## License
 Licensed under the (https://opensource.org/licenses/MIT) license.
