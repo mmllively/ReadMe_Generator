@@ -80,6 +80,9 @@ ${answers.username}
 ## License
 ${this.renderLicenseSection(answers.license)}
 
+## Link to Instructional Video
+https://app.castify.com/analyze/de1181e2-83e2-47d5-993d-7f23ab6beb65
+
     `
   }
 }
